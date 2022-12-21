@@ -24,9 +24,3 @@ My education: Bachelor of Informatics and Computer Engineering
 ## My tech stack
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## Github Stats
-
-![Metrics](/github-metrics.svg)
-
-[![](https://visitcount.itsvg.in/api?id=solar05&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
