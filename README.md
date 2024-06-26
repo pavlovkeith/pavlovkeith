@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I'm a Junior Web Developer
+I'm a Web Developer
 
 How to contact me: Just send email to [pavlovkeith@gmail.com](mailto:pavlovkeith@gmail.com)
 
